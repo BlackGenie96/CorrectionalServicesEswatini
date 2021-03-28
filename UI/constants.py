@@ -1,0 +1,5 @@
+entry_font = ('arial', 13)
+label_title_font = ('arial',22, 'bold')
+label_font = ('arial',17, 'bold')
+button_font = ('arial',12, 'bold')
+hint_font = ('arial',11, 'italic')
